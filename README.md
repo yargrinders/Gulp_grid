@@ -1,4 +1,4 @@
-# gulp-scss-starter
+# gulp-grid-materializecss
 
 ## :hammer_and_wrench: Установка
 * скачайте сборку с помощью [Git](https://git-scm.com/downloads): ```git clone https://github.com/yargrinders/Gulp_grid.git```
