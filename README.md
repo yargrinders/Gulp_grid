@@ -1,14 +1,5 @@
 # gulp-scss-starter
 
-## :fire: Особенности
-* именование классов по [БЭМ](https://ru.bem.info/)
-* используется БЭМ-структура
-* используется препроцессор [SCSS](https://sass-lang.com/)
-* используется транспайлер [Babel](https://babeljs.io/) для поддержки современного JavaScript (ES6) в браузерах
-* используется [Webpack](https://webpack.js.org/) для сборки JavaScript-модулей
-* используется жёсткий кодгайд
-* используется проверка кода на ошибки перед коммитом
-
 ## :hammer_and_wrench: Установка
 * скачайте сборку с помощью [Git](https://git-scm.com/downloads): ```git clone https://github.com/yargrinders/Gulp_grid.git```
 * перейдите в скачанную папку со сборкой: ```cd gulp_grid```
