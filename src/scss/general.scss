@@ -1,0 +1,28 @@
+*,*::before,*::after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+html, 
+body {
+    font-family: 'PT_Sans_Regular';
+    font-size: 16px;
+    background-color: #fff;
+    color: black;
+}
+body {
+    margin: 0;
+}
+main {
+	background-color: antiquewhite;
+	min-height: 320px;
+	.container {
+		.row:nth-child(1) {
+			background-color: rgb(213, 123, 123);
+		}
+	}
+}
