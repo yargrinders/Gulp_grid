@@ -11,7 +11,6 @@ a {
 
 html,
 body {
-  font-family: "PT_Sans_Regular";
   font-size: 16px;
   background-color: #fff;
   color: black;
@@ -19,14 +18,6 @@ body {
 
 body {
   margin: 0;
-}
-
-main {
-  background-color: antiquewhite;
-  min-height: 320px;
-}
-main .container .row:nth-child(1) {
-  background-color: rgb(213, 123, 123);
 }
 
 .container {
